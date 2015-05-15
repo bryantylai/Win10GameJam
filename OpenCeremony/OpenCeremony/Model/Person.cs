@@ -11,6 +11,7 @@ namespace OpenCeremony.Model
         public string Name { get; set; }
         public string Desc { get; set; }
         public Uri ImagePath { get; set; }
+        public string Organization { get; set; }
         public int Order { get; set; }
     }
 }

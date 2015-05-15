@@ -14,7 +14,7 @@
   <mp:PhoneIdentity PhoneProductId="6aa70008-6b9e-4a7e-a350-37b76301db3e" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>OpenCeremony</DisplayName>
+    <DisplayName>GameJam</DisplayName>
     <PublisherDisplayName>blty_</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>

@@ -57,6 +57,7 @@
                             <StackPanel Grid.Row="1">
                                 <Image Source="{Binding ImagePath}" HorizontalAlignment="Center" />
                                 <TextBlock Text="{Binding Name}" TextAlignment="Center" />
+                                <TextBlock Text="{Binding Organization}" TextAlignment="Center" />
                                 <TextBlock Text="{Binding Desc}" TextAlignment="Center" />
                             </StackPanel>
                         </Grid>
